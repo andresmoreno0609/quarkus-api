@@ -1,0 +1,6 @@
+quarkus:
+  http.port: 8080
+  log.console.json: true
+  smallrye-openapi.path: /q/openapi
+  swagger-ui.path: /q/swagger
+  swagger-ui.always-include: true
